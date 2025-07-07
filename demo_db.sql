@@ -2,7 +2,7 @@ drop database demo_db;
 drop user root; -- in case need to run the script again
 
 -- Create a new user
-CREATE USER root WITH PASSWORD 'Mitsuri_123';
+CREATE USER root WITH PASSWORD 'Password_123';
 
 -- Create a new database (optional)
 CREATE DATABASE demo_db;
